@@ -10,5 +10,5 @@ def sub(a, b):
 def multi(a,b):
     return a*b
 
-def div(a,b):
+def div_free(a,b):
     return a/b
