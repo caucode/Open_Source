@@ -9,6 +9,6 @@ def sub(a, b):
 #multiply
 def multi(a,b):
     return a*b
-
-def div(a,b):
+#divide
+def div_premium(a,b):
     return a/b
