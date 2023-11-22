@@ -10,7 +10,7 @@ def sub(a, b):
 def multi(a,b):
     return a*b
 
-def divide_main(a,b):
+def div(a,b):
     return a/b
 
 def square(a):
