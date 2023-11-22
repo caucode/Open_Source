@@ -1,5 +1,6 @@
 #Conflict Test
 
 def func(a,b):
-    return a
+    return b 
+# a -> b change
 
