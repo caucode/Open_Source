@@ -14,5 +14,3 @@ def multi(a,b):
 def div_premium(a,b):
     return a/b
 
-def mix(a,b,c):
-    return a+b-c
